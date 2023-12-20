@@ -1,6 +1,6 @@
 Name:		texlive-witharrows
-Version:	63087
-Release:	2
+Version:	68047
+Release:	1
 Summary:	"Aligned" math environments with arrows for comments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/witharrows
