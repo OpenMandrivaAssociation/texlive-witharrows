@@ -3,7 +3,7 @@ Version:	69996
 Release:	1
 Summary:	"Aligned" math environments with arrows for comments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/witharrows
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/witharrows
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/witharrows.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/witharrows.doc.r%{version}.tar.xz
