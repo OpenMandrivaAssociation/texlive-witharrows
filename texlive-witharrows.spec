@@ -1,5 +1,5 @@
 Name:		texlive-witharrows
-Version:	69996
+Version:	72594
 Release:	1
 Summary:	"Aligned" math environments with arrows for comments
 Group:		Publishing
